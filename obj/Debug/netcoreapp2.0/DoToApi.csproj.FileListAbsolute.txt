@@ -1,0 +1,10 @@
+/home/cody/Projects/C#/DoToApi/bin/Debug/netcoreapp2.0/DoToApi.deps.json
+/home/cody/Projects/C#/DoToApi/bin/Debug/netcoreapp2.0/DoToApi.runtimeconfig.json
+/home/cody/Projects/C#/DoToApi/bin/Debug/netcoreapp2.0/DoToApi.runtimeconfig.dev.json
+/home/cody/Projects/C#/DoToApi/bin/Debug/netcoreapp2.0/DoToApi.dll
+/home/cody/Projects/C#/DoToApi/bin/Debug/netcoreapp2.0/DoToApi.pdb
+/home/cody/Projects/C#/DoToApi/obj/Debug/netcoreapp2.0/DoToApi.csproj.CoreCompileInputs.cache
+/home/cody/Projects/C#/DoToApi/obj/Debug/netcoreapp2.0/DoToApi.AssemblyInfoInputs.cache
+/home/cody/Projects/C#/DoToApi/obj/Debug/netcoreapp2.0/DoToApi.AssemblyInfo.cs
+/home/cody/Projects/C#/DoToApi/obj/Debug/netcoreapp2.0/DoToApi.dll
+/home/cody/Projects/C#/DoToApi/obj/Debug/netcoreapp2.0/DoToApi.pdb
